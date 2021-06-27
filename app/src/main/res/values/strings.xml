@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XO Player</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment1">File fragment</string>
+    <string name="fragment2">Folder fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
